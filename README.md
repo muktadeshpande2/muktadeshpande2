@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukta
 - 👀 I’m looking for opportunities in Web Development
-- 🌱 I’m currently learning ReactJS
-- 🤝 I’m looking to collaborate on Software Development Projects
+- 🌱 Currently learning ReactJS
+- 🤝 Looking to collaborate on Software Development Projects
 - 💙 Love everything about books !
 - 📚 Also trying my hand at writing poems. ;)
 

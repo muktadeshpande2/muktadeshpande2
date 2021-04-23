@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukta
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on JavaScript Projects
+- 🤝 I’m looking to collaborate on JavaScript Projects
 
 
 <!---
